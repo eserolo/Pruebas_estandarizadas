@@ -1,9 +1,8 @@
-# Pruebas_estandarizadas
-ANÁLISIS DE PRUEBAS ESTANDARIZADAS MEDIANTE INTELIGENCIA ARTIFICIAL Y MACHINE LEARNING
+# _ANÁLISIS DE PRUEBAS ESTANDARIZADAS MEDIANTE INTELIGENCIA ARTIFICIAL Y MACHINE LEARNING_
 
 # RESUMEN
 
-	El presente proyecto de grado aborda la problemática de bajos resultados obtenidos en pruebas estandarizadas, estos exámenes, aplicados a estudiantes universitarios y a profesionales para el ingreso a puestos públicos, buscan evaluar sus habilidades y competencias académicas para presentar dichas pruebas.
+El presente proyecto de grado aborda la problemática de bajos resultados obtenidos en pruebas estandarizadas, estos exámenes, aplicados a estudiantes universitarios y a profesionales para el ingreso a puestos públicos, buscan evaluar sus habilidades y competencias académicas para presentar dichas pruebas.
 
  El enfoque metodológico de este proyecto se basa en la investigación mixta, lo que garantiza la obtención de datos objetivos y cuantificables sobre el rendimiento de los participantes en las pruebas y su relación con las competencias básicas evaluadas (Lectura critica, razonamiento cuantitativo, competencias en funciones publicas y comprension lectora).
 
